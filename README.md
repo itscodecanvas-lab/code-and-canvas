@@ -16,6 +16,7 @@ It includes utilities for image processing, calculations, and web productivity t
 
 * https://all-image-tools.vercel.app/
 * https://multicalculators.vercel.app/
+* https://scann-qr.vercel.app/
 
 ## Features
 
