@@ -1,30 +1,76 @@
 # Code & Canvas
 
-Code & Canvas is a collection of free online tools for developers, designers, and creators.
+Code & Canvas is a platform that provides a collection of useful online tools and verified information resources designed to simplify everyday digital tasks.
 
-It includes utilities for image processing, calculations, and web productivity tools that run directly in your browser without installing anything.
+Our goal is to offer reliable utilities and helpful guides that users can access instantly without downloads or complicated setups.
 
-## Tools Available
+---
+
+## What We Offer
+
+### 🔧 Online Tools
+
+We provide a range of browser-based tools that are fast, secure, and easy to use:
 
 * Image Compressor
 * Image Resizer
 * Image Converter
+* File Optimization Tools
 * Online Calculators
-* Web Utilities
+* Web Productivity Utilities
 
-## Live Websites
+All tools work directly in your browser, ensuring privacy and convenience.
 
-* https://all-image-tools.vercel.app/
-* https://multicalculators.vercel.app/
-* https://scann-qr.vercel.app/
+---
 
-## Features
+### 🏛 Government Services & Information
 
-✔ 100% free tools
-✔ No installation required
-✔ Fast browser-based processing
-✔ Mobile friendly
+In addition to tools, we also provide access to **verified government-related services and guidance**, helping users find official resources easily.
 
-## About
+This includes:
 
-Code & Canvas focuses on building simple tools that make everyday digital tasks easier for developers and creators.
+* Identity card (ID) related services
+* Passport information and application guidance
+* Tax-related resources
+* Public service portals
+* Country-specific service directories
+
+We aim to connect users with **official platforms only**, avoiding middlemen and unreliable sources.
+
+---
+
+## Our Websites
+
+* https://allserviceshub.site
+* https://all-image-tools.online
+
+---
+
+## Key Features
+
+✔ 100% Free Access
+✔ No Installation Required
+✔ Fast & Secure Browser-Based Tools
+✔ Mobile-Friendly Design
+✔ Easy Access to Official Resources
+
+---
+
+## Our Mission
+
+Code & Canvas is focused on building tools and platforms that combine **utility with trust**.
+
+We aim to:
+
+* Simplify everyday digital tasks
+* Provide accurate and helpful information
+* Help users quickly access official services
+* Deliver a clean and user-friendly experience
+
+---
+
+## About Us
+
+We are dedicated to creating practical solutions for users who need quick tools and reliable information online.
+
+Our platform is continuously improving to ensure quality, accuracy, and usability for everyone.
